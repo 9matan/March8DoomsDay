@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Dialog>
+    <list>
+      <PairOfStringString>
+        <First />
+        <Second>*Утро, шТОРа подходит к ТОРту*</Second>
+      </PairOfStringString>
+      <PairOfStringString>
+        <First>шТОРа</First>
+        <Second>О, уже 8 марта. Дорогой, а что ты на сегодня приготовил?</Second>
+      </PairOfStringString>
+      <PairOfStringString>
+        <First>ТОРт</First>
+        <Second>Даааа… Конечно…. Я только спущусь в машину и принесу его.</Second>
+      </PairOfStringString>
+      <PairOfStringString>
+        <First />
+        <Second>*Улица, ТОРт звонит Лехе*</Second>
+      </PairOfStringString>
+      <PairOfStringString>
+        <First>ТОРт</First>
+        <Second>Леха, что делать?! Сегодня 8 марта а у меня нет подарка!</Second>
+      </PairOfStringString>
+      <PairOfStringString>
+        <First>Леха</First>
+        <Second>Срочно нужно что-то предпринять! Я помогу тебе!</Second>
+      </PairOfStringString>
+      <PairOfStringString>
+        <First>ТОРт</First>
+        <Second>Прикрой меня от 13-летних упырей, если что.</Second>
+      </PairOfStringString>
+      <PairOfStringString>
+        <First>Леха</First>
+        <Second>Моя гитара на твоей стороне!</Second>
+      </PairOfStringString>
+	  <PairOfStringString>
+        <First>Леха</First>
+        <Second>Ты знаешь, как меня вызвать!</Second>
+      </PairOfStringString>
+    </list>
+  </Dialog>
+  <Dialog>
+    <list>
+      <PairOfStringString>
+        <First>ТОРт</First>
+        <Second>*отдышка*</Second>
+      </PairOfStringString>
+      <PairOfStringString>
+        <First>шТОРа</First>
+        <Second>Дорогой, где ты был?</Second>
+      </PairOfStringString>
+      <PairOfStringString>
+        <First>ТОРт</First>
+        <Second>Бегал.</Second>
+      </PairOfStringString>
+      <PairOfStringString>
+        <First>шТОРа</First>
+        <Second>Странно, но твоя футболка сухая и совсем не пахнет!</Second>
+      </PairOfStringString>
+      <PairOfStringString>
+        <First>ТОРт</First>
+        <Second>Лучше цветочки понюхай!</Second>
+      </PairOfStringString>
+      <PairOfStringString>
+        <First>ТОРт</First>
+        <Second>С праздником тебя, дорогая!</Second>
+      </PairOfStringString>
+      <PairOfStringString>
+        <First />
+        <Second>*цем-цем-цем*</Second>
+      </PairOfStringString>
+    </list>
+  </Dialog>
+</ArrayOfDialog>

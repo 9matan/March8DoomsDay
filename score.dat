@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfKeyValuePairOfStringInt32 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <KeyValuePairOfStringInt32>
+    <Key>asd</Key>
+    <Value>100</Value>
+  </KeyValuePairOfStringInt32>
+  <KeyValuePairOfStringInt32>
+    <Key>qwe</Key>
+    <Value>50</Value>
+  </KeyValuePairOfStringInt32>
+  <KeyValuePairOfStringInt32>
+    <Key>zzz</Key>
+    <Value>10</Value>
+  </KeyValuePairOfStringInt32>
+</ArrayOfKeyValuePairOfStringInt32>
